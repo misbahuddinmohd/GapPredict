@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+seaborn
+tensorflow
+pprotobuf==3.20
