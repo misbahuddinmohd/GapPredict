@@ -3,4 +3,4 @@ numpy
 pandas
 seaborn
 tensorflow
-pprotobuf==3.20
+protobuf==3.20
